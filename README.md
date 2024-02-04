@@ -1,9 +1,10 @@
-# HackerRank
+
+# HackerRank Solutions
 My HackerRank solutions and challenges
 
 
 
----
+
 
 <br>
 
@@ -83,7 +84,7 @@ My HackerRank solutions and challenges
 
 <br>
 
-## Python Language Proficiency ⏳
+## Python Language Proficiency⏳
 <br>
 
 | No | Question Name | Difficulty | Score | Solution(s) | Subject | HR Link |
