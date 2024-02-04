@@ -14,7 +14,7 @@ My HackerRank solutions and challenges
 
 | No | Question Name | Difficulty | Score | Solution(s) | Subject | HR Link |
 |--|--|--|--|--|--|--|
-| 0 | [**Day 0 : Hello, World**](https://github.com/deepz2609/Hackerrank_Python_Solutions/main/blob/solutions/Day_0-Hello_World.md) | Easy | 30 | 1 | `str` | [link](https://www.hackerrank.com/challenges/30-hello-world/problem) |
+| 0 | [**Day 0 : Hello, World**](https://github.com/deepz2609/Hackerrank_Python_Solutions/blob/main/solutions/Day_0-Hello_World.md) | Easy | 30 | 1 | `str` | [link](https://www.hackerrank.com/challenges/30-hello-world/problem) |
 | 1 | [**Day 1 : Data Types**](https://github.com/deepz2609/Hackerrank_Python_Solutions/solutions/Day_1_Data_Types.md) | Easy | 30 | 1 | `str`, `int`, `float`, `data types` | [link](https://github.com/deepz2609/Hackerrank_Python_Solutions/solutions/Day_1_Data_Types.md) |
 | 2 | [**Day 2 : Operators**](https://github.com/deepz2609/Hackerrank_Python_Solutions/solutions/Day_2_Operators.md) | Easy | 30 | 3 | `int`, `float`, `variables`, `arithmetic` | [link](https://www.hackerrank.com/challenges/30-operators/problem) |
 | 3 | [**Day 3 : Intro to Conditional Statements**](https://github.com/deepz2609/Hackerrank_Python_Solutions/solutions/Day_3_Intro_to_Conditional_Statements.md) | Easy | 30 | 4 | `if-elif-else`, `conditionals`, `logicals` | [link](https://www.hackerrank.com/challenges/30-conditional-statements/problem) |
